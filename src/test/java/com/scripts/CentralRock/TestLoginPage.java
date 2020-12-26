@@ -18,6 +18,7 @@ public class TestLoginPage extends BaseGenerics
 		lp.setUsername();
 		lp.setPassword();
 		lp.clickLogin();
+		System.out.println("hi i successfully done it");
 		
 	}
 
